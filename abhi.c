@@ -3,5 +3,5 @@ void main()
 {
 	int i;
 	for(i=0;i<5;i++)
-		printf("hai");
+		printf("hai pilla");
 }
